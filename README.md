@@ -13,4 +13,3 @@
 ## Reference
 1. [Windows PC를 Jump Host(Proxy Jump)로 구성하는 방법](https://github.com/20eung/ssh-proxyjump)
 2. [MacOS에서 iTerm2를 이용해 북마크 관리하는 방법](https://github.com/20eung/iterm2)
-3. 
