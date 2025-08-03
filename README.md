@@ -9,6 +9,8 @@
 ## 3. 서비스 > 일반 > iTerm2 실행 > 단축키 지정
 - ![키보드 단축키 지정](images/iTerm-shortcuts-3.png)
 
+## 4. 파일 저장 위치
+- ~/Library/Services/iTerm2 실행.workflow
 ---
 ## Reference
 1. [Windows PC를 Jump Host(Proxy Jump)로 구성하는 방법](https://github.com/20eung/ssh-proxyjump)
